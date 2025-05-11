@@ -78,7 +78,7 @@ npx expo start
 <h2 id="wannabe">🌟 Wanna Be a Contributor?</h2> <p><strong style="color:#f39c12;">We love contributions! 🙌</strong></p>
 💡 <strong>Willing to be a part?</strong>
 
-<div>👉 Clone the repo and just take a look around!</div> <div>🔍 If you notice anything missing or anything that could enhance the developer workflow —</div> <div>✨ Make a Pull Request!</div> <div>✅ I’ll review it and merge it after checking. Let's make this project even better together! 💪</div>
+<div>👉 Fork the repo and just take a look around!</div> <div>🔍 If you notice anything missing or anything that could enhance the developer workflow —</div> <div>✨ Make a Pull Request!</div> <div>✅ I’ll review it and merge it after checking. Let's make this project even better together! 💪</div>
 <div>🐞 Found a bug or facing an issue? Don't worry — just shoot me an email at 📬 <strong>rajlourdu15@gmail.com</strong>. I'll be happy to help! 💪🚀</div>
 
 
